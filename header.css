@@ -1,0 +1,82 @@
+
+#color{
+    background-color: black;
+
+}
+#colorrrr{
+    color:white;
+    font-size: small;
+}
+#button{
+    color:white;
+    background-color: black;
+    border:1px solid black;
+}
+#colorrrrr{
+    background-color: black;
+}
+#flex{
+    display: flex;
+ margin-top:-40px;
+ color:white;
+
+}
+#main{
+    height:50px;
+    width:1350px;
+     color:white;
+     background-color: black;
+}
+#more{
+    background-color: black;
+    border:black;
+    font-size:small
+}
+#login{
+    background-color: black;
+    color:white;
+    border:1px solid black;
+    font-size: small;
+}
+#stories{
+font-size:small;
+}
+#secondhead{
+    top:30px;
+    position:relative;
+}
+#navbar{
+    display:flex;
+    padding-left:60px;
+}
+#active{
+    color:black;
+    font-size: small;
+    gap:10px;
+    margin-left: 50px;
+}
+.nav-link{
+    color:black !important;
+
+
+}
+#imh{
+    margin-left: 300px;
+}
+#hellllllo{
+    display: flex;
+}
+#radio{
+    accent-color: black;
+}
+.card-text{
+font-weight:lighter !important;
+color:black;
+text-decoration: none;
+}
+.card-body{
+    color:black;
+    text-decoration: none;
+}
+
+

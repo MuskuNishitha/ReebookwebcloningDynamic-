@@ -1,0 +1,122 @@
+#whitlistlitem{
+    top:100px;
+    height:50px;
+    z-index:4;
+    width:280px;
+    border:1ps solid red;
+    position: absolute;
+    background-color: white;
+ margin-left:1030px;
+ transform: translateY(-40px);
+ box-shadow:0px 0px 5px black;
+ box-shadow:1px 1px 2px black;
+
+
+}
+#divspan{
+    padding-top:10px;
+    padding-left:20px;
+}
+#lilll{
+ display: none;
+}
+
+#sopetssssj{
+   
+        top:140px;
+        height:350px;
+        width:100%;
+        z-index:2;
+        border:1px solid white;
+        border-color:white;
+        background-color:white;
+        position: absolute;
+        display: none;
+        box-shadow:1px 1px 2px black;
+}
+#innervisport{
+    display: flex;
+    margin-left:70px;
+    margin-top:25px;
+    gap:110px;
+    line-height:15px;
+}
+/* #newww,#womennnnnn,#kidddd,#spooooo,#classss,#sallllllllll:hover{
+    text-decoration: underline;
+  
+
+} */
+#WOMEN{ 
+    top:140px;
+    height:450px;
+    width:100%;
+    z-index:2;
+    border:1px solid white;
+    border-color:white;
+    background-color:white;
+    position: absolute;
+    display: none;  
+    box-shadow:1px 1px 2px black;
+}
+#innerwoemn{
+    display: flex;
+    margin-left:70px;
+    margin-top:35px;
+    gap:40px;
+    line-height:10px;
+    font-size: 15px;
+}
+#shopalby{
+    display: flex;
+    margin-left:70px;
+    margin-top:35px;
+    gap:40px;
+    line-height:10px;
+    font-size: 15px;  
+}
+#newarrial{
+    top:140px;
+    height:450px;
+    width:100%;
+    z-index:2;
+    border:1px solid white;
+    border-color:white;
+    background-color:white;
+    position: absolute;
+    display: none;     
+    box-shadow:1px 1px 2px black;
+}
+#expressesdelvitory{
+    height:130px;
+    position: absolute;
+    width:350px;
+    border:1px solid white;
+    box-shadow: 0px 0px 3px rgb(5, 4, 4);
+    background-color:white;
+    top:150px;
+    margin-left:990px;
+    z-index:2;
+    padding-left:40px;
+    padding-top:20px;
+    line-height:20px;
+    border-radius:10px;
+    display:none;
+}
+#shoopoo{
+    color:black;
+    font-weight: bold;
+}
+
+/* #msgbox{
+    top:500px;
+     margin-top: -10000px;
+     z-index:12;
+     height:700px;
+     width:700px;
+} */
+#active{
+    font-weight:600;
+}
+#sallllllllll{
+    color:red;
+}

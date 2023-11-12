@@ -1,0 +1,221 @@
+@import url(./nav.css);
+#mainconsat{
+  top:50px;
+  position: relative;
+}
+#carouseldiv{
+  top:80px;
+  position:relative;
+}
+#divtag{
+  top:130px;
+  position: relative;
+  font-weight: 800;
+  color:black;
+}
+#view{
+  color:black;
+  padding-left: 700px;
+  margin-top: -20px;
+}
+#classic{
+  margin-top: 40px;
+  margin-left: 50px;
+}
+#run{
+  top:50px;
+  position: relative;
+  display: flex;
+  gap:30px;
+  margin-left: 50px;
+}
+#contaoner{
+  top:100px;
+  position:relative;
+  padding-left: 30px;
+
+}
+#for{
+  padding-left:50px;
+  margin-top: -10px;
+}
+#black{
+  accent-color: black;
+}
+#shopfor{
+  padding-left:60px;
+}
+#imagcardddd{
+  top:200px;
+  position: relative;
+}
+#TYPE{
+  accent-color:navy;
+}
+#imagcard{
+  top:150px;
+  position: relative;
+ 
+}
+#cardbody{
+  display: flex;
+  gap:30px;
+  margin-left: 50px;
+}
+#radioOOO{
+  accent-color: grey;
+}
+#radioposo{
+  accent-color:red;
+
+}
+#BLUE{
+  accent-color:blue;
+}
+#youfo{
+  margin-left: 50px;
+}
+#runninnng{
+margin-left: 50px;
+}
+#divtagcon{
+  top:230px;
+  position: relative;
+  background-color: rgb(187, 40, 40);
+  border:1px solid  rgb(187, 40, 40);
+  width:1350px;
+  height:400px;
+  color:white;
+}
+#innerdiv{
+  margin-top: 100px;
+  margin-left:340px;
+}
+#h1with{
+  font-size: 80px;
+}
+#booottton{
+  color:black;
+  background-color: white;
+  border:1px solid whitesmoke;
+  margin-left: 300px;
+
+}
+#ptag{
+   font-size: 23px;
+   padding-left: 30px;
+}
+#card25{
+  top:140px;
+  height:450px;
+  /* display:none; */
+  width:100%;
+  z-index:2;
+  border:1px solid white;
+  border-color:white;
+  background-color:white;
+  position: absolute;
+  box-shadow:1px 1px 2px black;
+ 
+}
+#cardinner{
+  display: flex;
+  margin-left:90px;
+  margin-top:20px;
+  gap:100px;
+}
+#icons{
+  margin-left:90px;
+  
+
+}
+#nano{
+  font-size:13px;
+  margin-left:90px;
+  gap:40px;
+}
+#datavaga{
+
+  display:none;
+}
+#car24{
+  top:60px;
+  position: absolute;
+  width:100%;
+  height:150px;
+  border:1px solid white;
+  background-color:white;
+  box-shadow:0px 0px 0.5px;
+  transition: all 3s;
+  display:none;
+  box-shadow:1px 1px 3px black;
+  
+}
+#imgsrcddd{
+  margin-left:80px;
+}
+#saledv{
+  top:140px;
+  height:200px;
+  width:100%;
+  z-index:2;
+  border:1px solid white;
+  border-color:white;
+  background-color:white;
+  position: absolute;
+  display: none;
+  box-shadow:1px 1px 2px black;
+}
+#inersal{
+  margin-left:80px;
+  margin-top:20px;
+  display:flex;
+  gap:130px;
+  line-height:10px;
+
+}
+#secnn{
+  top:140px;
+  height:220px;
+  /* display:none; */
+  width:100%;
+  z-index:2;
+  border:1px solid white;
+  border-color:white;
+  background-color:white;
+  position: absolute;
+  display: none;
+  box-shadow:1px 1px 2px black;
+ 
+}
+#secdis{
+  margin-top:30px;
+  display: flex;
+  margin-left:90px;
+  gap:150px;
+  line-height:15px;
+}
+
+
+/* - */
+#kidssss{
+  top:140px;
+  height:200px;
+  /* display:none; */
+  width:100%;
+  z-index:2;
+  border:1px solid white;
+  border-color:white;
+  background-color:white;
+  position: absolute;
+  display: none;
+  box-shadow:1px 1px 2px black;
+ 
+}
+#kiddis{
+  margin-top:30px;
+  display: flex;
+  margin-left:90px;
+  gap:150px;
+  line-height:15px;
+}
